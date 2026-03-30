@@ -41,18 +41,6 @@ The dataset contains **56,000+ records** including information such as:
 
 ---
 
-## Dashboard
-
-The dashboard is divided into multiple pages:
-
-* **Overview** – Key KPIs like total sales, orders, and customers
-* **Sales Analysis** – Revenue trends over time
-* **Customer Insights** – Customer behavior and retention
-* **Restaurant Performance** – Top restaurants and categories
-* **Order Analysis** – Order patterns and peak times
-
----
-
 ## Key Insights
 
 * Identified top-performing restaurants
@@ -70,3 +58,21 @@ This project demonstrates:
 * Data modeling and relationships
 * DAX calculations
 * Interactive dashboard creation
+
+---
+
+## Dashboard
+
+The dashboard is divided into multiple pages:
+
+* **Overview**
+![Overview](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896074508-awg30qi8d.png)
+  
+* **Customer Insights**
+![Customer Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896066602-xuurknver.png)
+  
+* **Restaurants Insights**
+![Restaurants Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896084969-5n9fz7hc6.png)
+  
+* **Restaurant Performance Details**
+![Restaurant Performance Details](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896079666-wylzl2vqi.png)
