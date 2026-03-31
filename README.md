@@ -69,10 +69,10 @@ The dashboard is divided into multiple pages:
 ![Overview](PNG/Overview.png)
   
 * **Customer Insights**
-![Customer Insights](Customer_Analytics.png)
+![Customer Insights](PNG/Customer_Analytics.png)
   
 * **Restaurants Insights**
-![Restaurants Insights](Restaurant_Performance.png)
+![Restaurants Insights](PNG/Restaurant_Performance.png)
   
 * **Restaurant Performance Details**
-![Restaurant Performance Details](Restaurant_Performance_Details.png)
+![Restaurant Performance Details](PNG/Restaurant_Performance_Details.png)
