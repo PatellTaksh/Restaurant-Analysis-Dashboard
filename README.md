@@ -66,13 +66,13 @@ This project demonstrates:
 The dashboard is divided into multiple pages:
 
 * **Overview**
-![Overview](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896074508-awg30qi8d.png)
+![Overview](PNG/Overview.png)
   
 * **Customer Insights**
-![Customer Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896066602-xuurknver.png)
+![Customer Insights](Customer_Analytics.png)
   
 * **Restaurants Insights**
-![Restaurants Insights](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896084969-5n9fz7hc6.png)
+![Restaurants Insights](Restaurant_Performance.png)
   
 * **Restaurant Performance Details**
-![Restaurant Performance Details](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774896079666-wylzl2vqi.png)
+![Restaurant Performance Details](Restaurant_Performance_Details.png)
